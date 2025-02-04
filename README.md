@@ -29,9 +29,9 @@ Welcome to my GitHub profile! I'm an **Associate Software Engineer** at **Arithm
 ---
 
 ### 📫 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile) 
-- 🐦 [Twitter](https://twitter.com/your-profile)
-- 📧 Email: your.email@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/zyn20/) 
+- 🐦 [X](https://x.com/zen____8)
+- 📧 Email: zain.arithmiks@gmail.com
 
 ---
 
